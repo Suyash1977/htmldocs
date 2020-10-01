@@ -60,7 +60,7 @@ can be answered if you disconnect and so that others can learn from the
 conversation.
 
 [[getting-started]]
-== Getting Started
+== -Getting Started-
 
 [[cloning]]
 === Clone the Git Repository
